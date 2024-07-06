@@ -1,1 +1,6 @@
 # Kushagra-tech-Car-Data-Import-Error-Handler
+
+I developed a comprehensive blogging website that enables users to create, edit, delete, and share their blogs seamlessly. The platform also allows users to search and explore the profiles of other users. The project employs JWT for secure authentication and authorization, ensuring that only authorized users have access to certain features. For cloud storage, Firebase was integrated, allowing users to upload and share images efficiently. Form validation was implemented using Formik and Yup, ensuring data integrity and a smooth user experience during form submissions.To maintain a consistent and responsive design, I used MUI (Material-UI) for the frontend components. This library provided pre-built components that were customized to fit the project's design requirements. Additionally, I performed Lighthouse effect checks to ensure the application meets high standards for performance, accessibility, best practices.
+
+Skills Used:
+Frontend: React.jsBackend: Node.js, Express.jsDatabase:MongoDb by MongooseValidation:Formik&Yup and Joi Authentication & Authorisation:Jwt TokenOptimization: Lazy Loading, Debouncing, Throttling,React.memo, Optimization hooks & Compression,Error handling middlewaresSecurity:Bcrypt,Cors,HelmetVersion Control:Git & GitHub, Firebase cloud storage
