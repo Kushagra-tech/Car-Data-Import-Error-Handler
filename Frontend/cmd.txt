@@ -1,0 +1,2 @@
+Frontend sonar cmd: 
+sonar-scanner   -Dsonar.projectKey=Frontend   -Dsonar.sources=.   -Dsonar.host.url=http://localhost:9000   -Dsonar.token=ssqp_7e95655424d16f4532450f8d344b24e9a357b84d
